@@ -12,10 +12,10 @@ Electrical Engineering undergraduate at **IIT Tirupati** with expertise in machi
 - **🔄 Parallel Computing**
 - **🖥️ Computer Vision & Signal Processing**
 - **📊 Data Analysis & Visualization**
-- **🤖 Transformer Models & LLM Fine-tuning**
+- **🤖 Transformer Models, LLM Fine-tuning & NLP**
 
 ## 💻 Skills
-- **ML/AI:** PyTorch, JAX, TensorFlow/Keras, HuggingFace, Neural Networks, Transformers, GANs, LLM Fine-tuning
+- **ML/AI:** PyTorch, JAX, TensorFlow/Keras, HuggingFace, Neural Networks, Transformers, GANs, LLM Fine-tuning, Spacy
 - **Programming:** Python, C/C++, CUDA, Verilog
 - **Tools & Libraries:** Pandas, Git, MATLAB, OpenMP, NumPy, Data Visualization
 - **Specialized Areas:** GPU Acceleration, Parallel Computing, Computer Vision, Deep Learning, Data Analysis
@@ -48,6 +48,11 @@ Electrical Engineering undergraduate at **IIT Tirupati** with expertise in machi
 - Successfully fine-tuned Large Language Models (LLMs) on single GPU hardware
 - Optimized for memory efficiency and training speed on resource-constrained systems
 
+### [Raptor](https://github.com/SuriyaaMM/Raptor)
+- Studied and Implemented concurrent and efficient web scraping for huge chunks of news
+- Implemented NLP Pipeline for efficient entity-linking and sentiment-analysis of finance news using Spacy and transformers library
+- Utilised Novel Machine Learning models to predict stock prices based on sentiment-analysis of the news
+
 ### [Digital Signal Processing](https://github.com/SuriyaaMM/EE209P_DigitalSignalProcessingLab)
 ### [Machine Learning Layers in CUDA](https://github.com/codeclubiittp/Parallel-Computing-GANs)
 ### [MGPUSIM Mod](https://github.com/SuriyaaMM/mgpusim)
@@ -56,6 +61,7 @@ Electrical Engineering undergraduate at **IIT Tirupati** with expertise in machi
 - Basic Computer Architecture
 - Digital Design & Parallel Computing
 - Introduction to Data Science and Machine Learning
+- Deep Learning
 - Digital Signal Processing
 
 ## 📊 GitHub Stats
