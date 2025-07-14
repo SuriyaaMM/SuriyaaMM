@@ -1,78 +1,85 @@
-# 🚀 Suriyaa MM
-## 👨‍💻 Professional Summary
-Electrical Engineering undergraduate at **IIT Tirupati** with expertise in machine learning, GPU acceleration, and parallel computing. Passionate about deep learning implementation, computer vision, and signal processing applications, with a strong foundation in both theoretical concepts and practical implementations.
+<h1 align="center">🚀 Suriyaa M M</h1>
+<p align="center"><i>Systems Hacker • ML Engineer • GPU Whisperer</i></p>
 
-## 🎓 Education
-**Indian Institute of Technology (IIT) Tirupati**  
-*Bachelor of Technology in Electrical Engineering*  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&vCenter=true&multiline=true&width=700&height=80&lines=Making+ML+faster%2C+smarter+and+GPU-friendlier+⚡;Contributor+to+JAX+%F0%9F%A4%96+%7C+Builder+of+ViTs%2C+Kernels%2C+and+LLMs;" alt="Typing SVG" />
+</p>
 
-## 🔬 Technical Interests
-- **🧠 Machine Learning & Deep Learning**
-- **⚡ GPU Acceleration & CUDA Programming**
-- **🔄 Parallel Computing**
-- **🖥️ Computer Vision & Signal Processing**
-- **📊 Data Analysis & Visualization**
-- **🤖 Transformer Models, LLM Fine-tuning & NLP**
+---
 
-## 💻 Skills
-- **ML/AI:** PyTorch, JAX, TensorFlow/Keras, HuggingFace, Neural Networks, Transformers, GANs, LLM Fine-tuning, Spacy
-- **Programming:** Python, C/C++, CUDA, Verilog
-- **Tools & Libraries:** Pandas, Git, MATLAB, OpenMP, NumPy, Data Visualization
-- **Specialized Areas:** GPU Acceleration, Parallel Computing, Computer Vision, Deep Learning, Data Analysis
+## 🧰 Tech Stack
+<p align="center"> 
+  <!-- Languages --> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++"/> 
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" title="NVIDIA CUDA"/> 
+  <img src="https://img.shields.io/badge/OpenMP-0033A0?style=for-the-badge&logoColor=white" title="OpenMP"/> 
+  <img src="https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logoColor=white" title="Verilog"/> 
 
-## 🏆 Experience
-### Internship Coordinator - Career Development Center (Aug 2023 – Present)
-- Facilitating end-to-end internship processes between students, CDC, and visiting companies
-- Ensuring smooth coordination while maintaining confidentiality
-- Streamlining application workflows and improving communication channels
+  <!-- ML Libraries --> 
+  <img src="https://img.shields.io/badge/JAX-FFCC00?style=for-the-badge&logo=google&logoColor=black" title="Google JAX"/> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch"/> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow"/> 
+  <img src="https://img.shields.io/badge/Optax-0091FF?style=for-the-badge&logoColor=white" title="Optax"/> 
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" title="HuggingFace Transformers"/> 
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn"/> 
 
-### Digital Wizards (Programming Club) – Core Member (July 2024 – Present)
-- Implemented basic Machine Learning layers using CUDA Framework
-- Developed highly optimized code for efficient GPU execution of deep learning models
-- Mentored junior members and conducted sessions on CUDA and Champsim
+  <!-- Data & Viz --> 
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy"/> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas"/> 
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" title="Matplotlib"/> 
+  <img src="https://img.shields.io/badge/Seaborn-42a5f5?style=for-the-badge&logoColor=white" title="Seaborn"/> 
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" title="MATLAB"/> 
 
-### Inter IIT Tech Meet 13.0 – Contingent Member (Nov – Dec 2024)
-- Developed ML-driven data analysis solution for ISRO
-- Achieved 20-30% increase in processing efficiency using GPU acceleration
-- Utilized Matplotlib, NumPy, Seaborn and Pandas for data scraping, analysis and visualization
-- Secured 11th place among 23 competing IITs
+  <!-- Graphics & Compute --> 
+  <img src="https://img.shields.io/badge/Vulkan-B72C20?style=for-the-badge&logo=vulkan&logoColor=white" title="Vulkan"/> 
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" title="OpenGL"/> 
+  <img src="https://img.shields.io/badge/DirectX-0078D7?style=for-the-badge&logo=directx&logoColor=white" title="DirectX"/> 
 
-## 🛠️ Notable Projects
-### [Vision Transformer Implementation](https://github.com/SuriyaaMM/VisionTransformer-Jax)
-- Designed and implemented Vision Transformer (ViT) from first principles using JAX and Optax
-- Achieved 85% classification accuracy through attention mechanism optimization
-- Optimized model for improved performance on limited computational resources
+  <!-- Tools --> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux"/> 
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="VS Code"/> 
+</p>
 
-### [ML & DL Algorithms Implementation](https://github.com/SuriyaaMM/AIStuff)
-- Implemented various machine learning and generative deep learning algorithms from scratch
-- Successfully fine-tuned Large Language Models (LLMs) on single GPU hardware
-- Optimized for memory efficiency and training speed on resource-constrained systems
+---
 
-### [Raptor](https://github.com/SuriyaaMM/Raptor)
-- Studied and Implemented concurrent and efficient web scraping for huge chunks of news
-- Implemented NLP Pipeline for efficient entity-linking and sentiment-analysis of finance news using Spacy and transformers library
-- Utilised Novel Machine Learning models to predict stock prices based on sentiment-analysis of the news
+## 🧠 I Build
 
-### [Digital Signal Processing](https://github.com/SuriyaaMM/EE209P_DigitalSignalProcessingLab)
-### [Machine Learning Layers in CUDA](https://github.com/codeclubiittp/Parallel-Computing-GANs)
-### [MGPUSIM Mod](https://github.com/SuriyaaMM/mgpusim)
+- 🌀 **Transformers** from scratch in **JAX**
+- 🚀 **CUDA Kernels** for ML ops & layers
+- 📊 **NLP pipelines** for finance & sentiment analysis
+- 🧬 **LLMs** trained on *single-GPU*
+- 🧮 Low-level distributions: [Gumbel for JAX](https://github.com/jax-ml/jax/pull/29343)
 
-## 📚 Relevant Coursework
-- Basic Computer Architecture
-- Digital Design & Parallel Computing
-- Introduction to Data Science and Machine Learning
-- Deep Learning
-- Digital Signal Processing
+---
+
+## 🔗 Featured Projects
+
+| 🚀 Project | 🔍 Description |
+|-----------|----------------|
+| [`jax#29343`](https://github.com/jax-ml/jax/pull/29343) | Gumbel distribution implementation for JAX |
+| [VisionTransformer-JAX](https://github.com/SuriyaaMM/VisionTransformer-Jax) | ViT from scratch with Optax |
+| [Raptor](https://github.com/SuriyaaMM/Raptor) | Sentiment-aware stock prediction using NLP |
+| [Parallel-Computing-GANs](https://github.com/codeclubiittp/Parallel-Computing-GANs) | CUDA layer implementations |
+| [AIStuff](https://github.com/SuriyaaMM/AIStuff) | LLM/DL zoo built from scratch |
+
+---
 
 ## 📊 GitHub Stats
-![Suriyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuriyaaMM&show_icons=true&theme=radical)
 
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaaMM&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuriyaaMM&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaaMM&layout=compact&theme=radical" width="48%"/>
+</p>
 
-## 📫 Let's Connect!
-- 📧 Email: ee23b054@iittp.ac.in
-- 🔗 [LinkedIn](https://www.linkedin.com/in/suriyaa-mm-246976284/)
-- 💻 [GitHub](https://github.com/SuriyaaMM)
-- 📱 Phone: +91 7358890881
 ---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:ee23b054@iittp.ac.in"><img src="https://img.shields.io/badge/email-ee23b054@iittp.ac.in-red?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/SuriyaaMM"><img src="https://img.shields.io/badge/GitHub-SuriyaaMM-181717?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/suriyaa-mm-246976284/"><img src="https://img.shields.io/badge/LinkedIn-SuriyaaMM-blue?style=flat-square&logo=linkedin"></a>
+</p>
