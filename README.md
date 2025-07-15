@@ -1,8 +1,7 @@
-<h1 align="center">🚀 Suriyaa M M</h1>
-<p align="center"><i>Systems Hacker • ML Engineer • GPU Whisperer</i></p>
+<h1 align="center">Suriyaa MM</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&vCenter=true&multiline=true&width=700&height=80&lines=Making+ML+faster%2C+smarter+and+GPU-friendlier+⚡;Contributor+to+JAX+%F0%9F%A4%96+%7C+Builder+of+ViTs%2C+Kernels%2C+and+LLMs;" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&duration=1200&pause=1000&color=01B2F7&center=true&vCenter=true&multiline=true&width=435&lines=Crafting+Intelligence+%E2%80%A2+One+Tensor+at+a+Time" alt="Typing SVG" /></a>
 </p>
 
 ---
